@@ -12,6 +12,9 @@
     "name": "typicode"
   },
   "jobs": {
+    "resultCount": 1
+  },
+  "nojobs": {
     "resultCount": 0
   }
 }
